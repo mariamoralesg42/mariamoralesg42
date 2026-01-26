@@ -1,16 +1,62 @@
-## Hi there 👋
+# 🍒✨ Hola, soy Mariale
 
-<!--
-**mariamoralesg42/mariamoralesg42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Ingeniera en Sistemas Jr | 🎨 Diseñadora Gráfica  
+**Code with logic. Design with heart.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 Sobre mí
+
+Soy **Ingeniera en Sistemas Junior y Diseñadora Gráfica**, combinando tecnología y creatividad para crear experiencias digitales funcionales, intuitivas y visualmente atractivas.  
+
+Me encanta aprender cosas nuevas, experimentar con diseño y desarrollo, y mejorar un poquito cada día. Disfruto transformar ideas en soluciones digitales bien pensadas, bonitas y usables.
+
+---
+
+## 🍒 Tech & Design Stack
+
+### 💻 Desarrollo
+- HTML, CSS, JavaScript  
+- Fundamentos de Frontend  
+- Bases de datos (nivel académico)  
+- Git & GitHub  
+- Lógica de programación  
+
+### 🎨 Diseño & UX/UI
+- Diseño UI/UX  
+- Branding básico  
+- Wireframes & prototipos  
+- Diseño para web y redes  
+
+---
+
+## 🛠️ Herramientas
+
+**Dev**
+- Visual Studio Code  
+- Git / GitHub  
+
+**Design**
+- Figma  
+- Adobe Illustrator  
+- Adobe Photoshop  
+
+---
+
+## 🌱 Actualmente
+
+- 📚 Aprendiendo: desarrollo web, Inteligencia Artificial y UX/UI  
+- 💡 Interesada en: diseño digital, frontend y tecnología creativa  
+
+---
+
+## 🍒 Conecta conmigo
+
+- 📧 Email: [tu email]  
+- 💼 LinkedIn: [tu perfil]  
+- 🎨 Portafolio: [Behance / Dribbble / Web]  
+- 🐙 GitHub: mariamoralesg42
+
+---
+
+✨ *Aprendiendo, creando y creciendo línea por línea.*
