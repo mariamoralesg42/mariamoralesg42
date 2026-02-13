@@ -52,11 +52,8 @@ Me encanta aprender cosas nuevas, experimentar con diseño y desarrollo, y mejor
 
 ## 🍒 Conecta conmigo
 
-- 📧 Email: [tu email]  
-- 💼 LinkedIn: [tu perfil]  
-- 🎨 Portafolio: [Behance / Dribbble / Web]  
+- 📧 Email: mmoralesg42@miumg.edu.gt
 - 🐙 GitHub: mariamoralesg42
 
 ---
 
-✨ *Aprendiendo, creando y creciendo línea por línea.*
