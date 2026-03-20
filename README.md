@@ -25,7 +25,6 @@ Me encanta aprender cosas nuevas, experimentar con diseño y desarrollo, y mejor
 ### 🎨 Diseño & UX/UI
 - Diseño UI/UX  
 - Branding básico  
-- Wireframes & prototipos  
 - Diseño para web y redes  
 
 ---
